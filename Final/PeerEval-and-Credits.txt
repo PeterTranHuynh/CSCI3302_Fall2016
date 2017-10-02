@@ -1,0 +1,8 @@
+VIDEO LINK: https://youtu.be/MXTQ15mOcJk
+
+Credits and Peer Eval/Responsibilities
+ Kylie Shay Dale: Kylie.Dale@colorado.edu        - 10/10 - Designed soccer field for Sparki's, worked on video editing and filming and helped with code 
+ Jake Traut: Jake.Traut@colorado.edu             - 10/10 - Worked on Player Code and made state diagrams for player 
+ Scott Schubert: Scott.Schubert@colorado.edu     - 10/10 - Worked on Goalie Code and edited audio for video
+ Mihail Chowhury: Mikhail.Chowdhury@colorado.edu - 10/10 - Worked on Goalie Code and wrote scripts for video
+ Peter Huynh: Peter.Huynh@colorado.edu           - 10/10 - Worked on Player Code and made digital versions of state diagrams for video

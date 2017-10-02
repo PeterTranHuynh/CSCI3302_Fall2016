@@ -1,0 +1,9 @@
+For the goalie, there are four main states: Scan 1, Scan 2, Calculate and Defend
+In Scan 1, the goalie uses the ultrasound sensor to ping for objects within 40 centimeters
+If there is any detection, sparki then loads the angle and distance within a calculation
+array and moves into the second scan.
+During the second scan, the goalie does another 40 centimeter ultrasound ping and loads in
+the time difference between the scans, along with the second angle and distance into the
+array, and jumps into calculations.
+Sparki then determines the average travel distance needed to block the object, updates
+its x and y values, sets its velocity and traversal position and moves to defend.
